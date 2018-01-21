@@ -11,10 +11,46 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-21T15:12:37.5127389-05:00
-  lastVerifiedAtString: 2018-01-21T15:12:37.5127389-05:00
+  lastUpdatedAtString: 2018-01-21T15:13:52.8407210-05:00
+  lastVerifiedAtString: 2018-01-21T15:13:52.8407210-05:00
   initializedAtString: 2018-01-21T14:31:29.0171715-05:00
   log:
+  - commitID: 54f610c4a60f3fb3d9124f371316864304dc11f8
+    mergeA: 
+    mergeB: 
+    authorName: tony2482012
+    authorEmail: anthonyyono55@me.com
+    commitEmail: anthonyyono55@me.com
+    commitName: tony2482012
+    summary: test3
+    description: test3
+    timeString: 2018-01-21T15:13:30.0000000-05:00
+    commitTimeString: 2018-01-21T15:13:30.0000000-05:00
+    changes:
+    - path: CIS 2999 2D RPG\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: CIS 2999 2D RPG\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: CIS 2999 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: CIS 2999 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 4976768e3c0e9a43ff8e10e0bc31fcb2af75d17e
     mergeA: 
     mergeB: 

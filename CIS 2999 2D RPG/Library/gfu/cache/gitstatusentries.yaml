@@ -11,7 +11,31 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-21T15:12:36.5222819-05:00
-  lastVerifiedAtString: 2018-01-21T15:12:36.8437551-05:00
+  lastUpdatedAtString: 2018-01-21T15:19:51.1875726-05:00
+  lastVerifiedAtString: 2018-01-21T15:19:51.1875726-05:00
   initializedAtString: 2018-01-21T14:31:29.1148118-05:00
-  entries: []
+  entries:
+  - path: CIS 2999 2D RPG\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: CIS 2999 2D RPG\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: CIS 2999 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: CIS 2999 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Owner\Documents\GitHub\CIS-2999-2D-RPG\CIS 2999 2D RPG\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
