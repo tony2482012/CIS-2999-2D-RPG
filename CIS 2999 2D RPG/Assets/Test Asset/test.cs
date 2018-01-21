@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Testing by Selena
-
 public class test : MonoBehaviour {
 
 	// Use this for initialization
