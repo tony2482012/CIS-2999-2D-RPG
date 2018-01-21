@@ -12,6 +12,9 @@
 sysinfo.txt
 # Unity3D generated meta files
 *.pidb.meta
+*.meta
+cache/*
+CIS 2999 2D RPG/Library/metadata/*
 
 ###
 # VS/MD solution and project files
@@ -39,3 +42,5 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+*.meta
+CIS 2999 2D RPG/Library/metadata/00/00000000000000002000000000000000
