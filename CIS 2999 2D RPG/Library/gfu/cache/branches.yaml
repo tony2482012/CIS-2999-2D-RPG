@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-21T15:13:52.9654028-05:00
-  lastVerifiedAtString: 2018-01-21T15:13:53.0269915-05:00
-  initializedAtString: 2018-01-21T14:31:28.5464798-05:00
+  lastUpdatedAtString: 2018-01-21T17:35:36.6630860-05:00
+  lastVerifiedAtString: 2018-01-21T17:35:36.6676770-05:00
+  initializedAtString: 2018-01-21T17:34:58.6012680-05:00
   gitConfigBranch:
     name: master
     remote:
@@ -27,7 +27,7 @@ MonoBehaviour:
     tracking: origin/master
     isActive: 1
   remoteBranches:
-  - name: origin/master
+  - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -51,10 +51,10 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - master
+      - HEAD
     subKeyValues:
     - Values:
-      - name: master
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/tony2482012/CIS-2999-2D-RPG.git
